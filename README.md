@@ -1,5 +1,5 @@
 # Building-an-Amazon-Products-and-Reviews-Scraper-with-Python-Scrapy
-My Amazon Products and Reviews Scraper Using Scrapy is a meticulously engineered web scraping project I developed to extract valuable product information and reviews from Amazon's expansive online marketplace. Leveraging the power of the Scrapy framework, I crafted this project to offer a scalable and efficient solution for gathering intricate product details and customer feedback. It empowers users to streamline their market research, competitor analysis, and pricing strategies with ease.
+This Amazon scraper is a project I developed with Scrapy to collect detailed product information and customer reviews from Amazon. It’s designed to be fast, scalable, and reliable. Perfect for anyone doing market research, tracking competitors, or refining pricing strategies based on real user feedback.
 
 Key Features:
 
